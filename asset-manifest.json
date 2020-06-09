@@ -1,21 +1,21 @@
 {
   "files": {
-    "app.js": "/static/js/app.64ac2883.chunk.js",
-    "app.js.map": "/static/js/app.64ac2883.chunk.js.map",
-    "runtime~app.js": "/static/js/runtime~app.34c76111.js",
-    "runtime~app.js.map": "/static/js/runtime~app.34c76111.js.map",
-    "static/js/2.b63676ad.chunk.js": "/static/js/2.b63676ad.chunk.js",
-    "static/js/2.b63676ad.chunk.js.map": "/static/js/2.b63676ad.chunk.js.map",
-    "favicon-16.png": "/favicon-16.png",
-    "favicon-32.png": "/favicon-32.png",
-    "favicon.ico": "/favicon.ico",
-    "index.html": "/index.html",
-    "manifest.json": "/manifest.json",
-    "serve.json": "/serve.json"
+    "app.js": "/tictactoe/static/js/app.72b2934f.chunk.js",
+    "app.js.map": "/tictactoe/static/js/app.72b2934f.chunk.js.map",
+    "runtime~app.js": "/tictactoe/static/js/runtime~app.783151a2.js",
+    "runtime~app.js.map": "/tictactoe/static/js/runtime~app.783151a2.js.map",
+    "static/js/2.b63676ad.chunk.js": "/tictactoe/static/js/2.b63676ad.chunk.js",
+    "static/js/2.b63676ad.chunk.js.map": "/tictactoe/static/js/2.b63676ad.chunk.js.map",
+    "favicon-16.png": "/tictactoe/favicon-16.png",
+    "favicon-32.png": "/tictactoe/favicon-32.png",
+    "favicon.ico": "/tictactoe/favicon.ico",
+    "index.html": "/tictactoe/index.html",
+    "manifest.json": "/tictactoe/manifest.json",
+    "serve.json": "/tictactoe/serve.json"
   },
   "entrypoints": [
-    "static/js/runtime~app.34c76111.js",
+    "static/js/runtime~app.783151a2.js",
     "static/js/2.b63676ad.chunk.js",
-    "static/js/app.64ac2883.chunk.js"
+    "static/js/app.72b2934f.chunk.js"
   ]
 }
